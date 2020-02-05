@@ -1,0 +1,130 @@
+#Green Line :
+West Harlow;Pattendes;1
+Pattendes;Lower Sheal;1
+Lower Sheal;Quinsville;1.2
+Quinsville;Sheal Bridge;1.5
+Sheal Bridge;Harlow;2.5
+Harlow; New St;1.7
+New St;The Exchange;0.5
+
+#brown line:
+West Harslow2;Harslow;1.8
+Harslow;Ditherling;1.7
+Ditherling;Kattering;1.1
+Kattering;West Harslow;1.5
+West Harslow;The Exchange;2.4
+The Exchange;Good St;2
+Good St;Merchants Square;1.1
+Merchants Square;The Banks;2.9
+
+#red line:
+Perstslyn South;Perstslyn Central;2.2
+Perstslyn Central;Docks Bridge;1.7
+Docks Bridge;Perstslyn North;1.5
+Perstslyn North;China Docks;1.5
+China Docks;Saunders;0.9
+Saunders;Stokely;1.7
+Stokely;Sansom;1.5
+Sansom;Privy;2.6
+Privy;Merchants Square;1
+Merchants Square;Prosper St;2
+Prosper St;23rd St;1.1
+23rd St;Gainstly West;2.7
+Gainstly West;Yeavely;1.5
+Yeavely;Byron Avenue;1.1
+Byron Avenue;Farrow;2.1
+Farrow;Gotham International Terminals 2-6;2.1
+Gotham International Terminals 2-6;Gotham International Terminals 1-2;1.8
+Byron Avenue;Hackton;1
+Hackton;South Farrow;1.3
+South Farrow;Court St;2.3
+Court St;Peppling;2.1
+Peppling;Endbury;0.7
+
+#Yellow Line:
+South Hinkley;South Island;3.8
+South Island;The Docks;2.3
+The Docks;Stevensburgh;1.8
+Stevensburgh;Rootsville Bridge;3.7
+Rootsville Bridge;Kinsley;2.4
+Kinsley;Prosper St;3.2
+Prosper St;North Gainstly;0.9
+North Gainstly;Hackart;1.2
+Hackart;North City Cross;1.3
+North City Cross;Lemmars;1.3
+Lemmars;South Farrow;1
+South Farrow;Fattore;0.4
+Fattore;Tettry;4.2
+Tettry;Pettsburg Central;0.9
+Pettsburg Central;Gotham International Terminals 1-2;1.7
+
+#Black Line:
+West Harslow;Admiral Way;4.1
+Admiral Way;Belcom;2
+Belcom;Marton;1.4
+Marton;Hackart;4.5
+Hackart;23rd St;2.3
+23rd st;The Banks;1.8
+The Banks;Wayne Central;3.3
+Wayne Central;The Gantry;0.6
+The Gantry;Rootsville;1.4
+Wayne Central;Rootsville Bridge;2.1
+Wayne Central;East City Park;2.1
+East City Park;Dullich;2
+Dullich;Stevensburgh;1.9
+Stevensburgh;Saunders;2.5
+Saunders;West Harslow;3
+
+#White Line:
+Wingsway;The Pass;2.8
+The Pass;Reiter;1.4
+Reiter;Townsend;1.2
+Townsend;Admiral Way;2
+Admiral Way;The Arena;3
+The Arena;Merchants Square;2.4
+Merchants Square;Kinsley;2
+Kinsley;The Gantry;3
+The Gantry;East Docklands;1.4
+
+#Orange Line:
+Stevensburgh;Sansom;2.9
+Sansom;The Exchange;1
+The Exchange;The Arena;2.1
+The Arena;Fleeting;1.8
+Haysville South;Dullich;0.7
+Dullich;Murtagh;1.7
+Murtagh;The Narrows;2.5
+The Narrows;Merchants Square;1.3
+Merchants Square;Fleeting;2.4
+Fleeting;Jerrold;3.6
+Jerrold;Gotham Stadium;3.3
+Fleeting;Marton;2.2
+Marton;Sallow;0.9
+Sallow;Harrison St;1.3
+Harrison St;Endbury;1.6
+Endbury;Liberty;1.5
+Liberty;Granton;1.3
+Granton;Granton Bridge;2.4
+Granton Bridge;Steppart;0.6
+Steppart;Duncan St;1.3
+The Banks;Rootsville;2.9
+Rootsville;East Docklands;2
+East Docklands;East City Park;2.3
+
+#Sheal line:
+Quinsville;The Pass;5.3
+The Pass;City Industrial Park;3.7
+City Industrial Park;Sheal Central;2.4
+Sheal Central;North Sheal;1.1
+City Industrial Park;Leggart;1.9
+Leggart;South Park;1.5
+South Park;Exit Row;1.6
+Exit Row;Belcom;1.3
+Belcom;Ashing;1.2
+Ashing;The Arena;1.5
+The Arena;Good St;1.5
+Good St;Privy;0.7
+Privy;The Narrows;1.2
+The Narrows; St Andrews;2
+St Andrews;East City Park;1.2
+East City Park; Haysville;0.9
